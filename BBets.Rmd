@@ -89,6 +89,11 @@ main = "Line Plot of Brownlow Numerical Vector")
 
 ```
 
+```{r}
+favstats(sorted_brownlow)
+```
+
+
 
 
 # What are the fair odds? Use manipulation of odds in the function to tune Brownlows earnings to zero. 
