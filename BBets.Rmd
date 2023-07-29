@@ -163,6 +163,7 @@ main = "Line Plot of Brownlow Numerical Vector")
 favstats(sorted_fair_low)
 ```
 
+The num class value that worked for me was 28 that was the number that got me closest to 0.
 
 
 
