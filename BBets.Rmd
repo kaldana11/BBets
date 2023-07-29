@@ -114,9 +114,15 @@ b_low[i] <- BrLw(odds=4.32)
 ```
  
  
- 
- 
- 
+```{r}
+
+sorted_b_low <- sort(b_low)
+
+plot(sorted_b_low, type = "l", xlab = "Index", ylab = "Value",
+
+main = "Line Plot of b_low Numerical Vector")
+
+```
  
  
  
