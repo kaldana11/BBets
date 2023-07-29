@@ -79,7 +79,15 @@ brownlow[i] <- BrLw()
 
 ```
 
+```{r}
 
+sorted_brownlow <- sort(brownlow)
+
+plot(sorted_brownlow, type = "l", xlab = "Index", ylab = "Value",
+
+main = "Line Plot of Brownlow Numerical Vector")
+
+```
 
 
 
