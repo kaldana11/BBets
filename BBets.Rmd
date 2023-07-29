@@ -135,7 +135,19 @@ favstats(sorted_b_low)
 
 <!--Explain and display the results of your method of coming up with the estimate of professor Brownlows betting profits!-->
 
+```{r}
 
+fair_low <- array(40)
+
+for (i in 1:40) {
+
+fair_low[i] <- BrLw(numClass =28)
+
+}
+
+
+
+```
 
 
 
