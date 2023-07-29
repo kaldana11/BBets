@@ -149,7 +149,15 @@ fair_low[i] <- BrLw(numClass =28)
 
 ```
 
+```{r}
 
+sorted_fair_low <- sort(fair_low)
+
+plot(sorted_fair_low, type = "l", xlab = "Index", ylab = "Value",
+
+main = "Line Plot of Brownlow Numerical Vector")
+
+```
 
 
 
