@@ -93,7 +93,7 @@ main = "Line Plot of Brownlow Numerical Vector")
 favstats(sorted_brownlow)
 ```
 
-
+The average earnig will be 279 and 95 percent confidence interval is 2 standard deviation above the mean and two standard deviations below the mean. Those numbers are between 225 and 333.
 
 
 # What are the fair odds? Use manipulation of odds in the function to tune Brownlows earnings to zero. 
