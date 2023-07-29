@@ -65,6 +65,23 @@ return(brownlow)
   
 <!--Explain and display your method of coming up with a 95% confidence interval of  professor Brownlows winnings (or losings)-->
 
+```{r}
+
+brownlow <- array(40)
+
+for (i in 1:40) {
+
+brownlow[i] <- BrLw()
+
+}
+
+
+
+```
+
+
+
+
 
 # What are the fair odds? Use manipulation of odds in the function to tune Brownlows earnings to zero. 
 
