@@ -159,6 +159,11 @@ main = "Line Plot of Brownlow Numerical Vector")
 
 ```
 
+```{r}
+favstats(sorted_fair_low)
+```
+
+
 
 
 
